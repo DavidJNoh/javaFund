@@ -4,4 +4,5 @@ public class calculateHypotenuse{
         double result = solving.calculateHypotenuse(3,4);
         System.out.println(result);
     }
+    
 }
